@@ -50,7 +50,7 @@ class ProductController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Display the specified testing resource.
      *
      * @param  \App\Product  $product
      * @return \Illuminate\Http\Response
